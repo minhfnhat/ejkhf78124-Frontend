@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions.",
+        "title": "Revamp Your Worklife with LOL!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revamp Your Worklife with LOL!",
+  "subtitle": "Transform your daily grind into a joyful journey with our innovative worklife solutions."
+}
